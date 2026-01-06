@@ -8,7 +8,7 @@ const buttons = {
     [
       {
         text: "🚀 Open Downloader",
-        url: "https://desisavar.pages.dev/",
+        url: "https://buttons-dlq.pages.dev/",
         web_app: null
       }
     ],
@@ -52,7 +52,7 @@ export default async function handler(req, res) {
 
   await sendMessage(
     chatId,
-    "👇 Niche button se downloader open kare:"
+    "👇 Niche ke button se downloader open kare:"
   );
 
   res.status(200).end();
