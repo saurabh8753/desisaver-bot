@@ -8,7 +8,7 @@ const buttons = {
     [
       {
         text: "🚀 Open Downloader",
-        url: "https://buttons-dlq.pages.dev/",
+        url: "https://desisavar.pages.dev/",
         web_app: null
       }
     ],
