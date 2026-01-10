@@ -7,8 +7,8 @@ const buttons = {
   inline_keyboard: [
     [
       {
-        text: "🚀 Open Downloader",
-        url: "https://desisavar.pages.dev/",
+        text: "🚀 Download App",
+        url: "https://groupws.blogspot.com/",
         web_app: null
       }
     ],
